@@ -1,5 +1,7 @@
 Connect A Web App with Amazon Aurora
+
 Project Overview
+
 This project demonstrates how to connect a web application to an Amazon Aurora database. Aurora is a fully managed relational database service that offers high performance, scalability, reliability, compatibility, and cost-effectiveness, making it ideal for handling demanding workloads such as online transaction processing.
 
 Author
